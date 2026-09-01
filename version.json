@@ -1,5 +1,5 @@
-{
-  "versao": "1.0.0",
-  "download": "https://github.com/Leonardo-Muraro/Automacao-Uniderp-Releases/releases/download/v1.0.0/AutomacaoUniderp.exe",
-  "notas": "Versão inicial da Automação Uniderp."
-}
+   {
+     "versao": "1.0.2",
+     "download": "https://github.com/Leonardo-Muraro/Automacao-Uniderp-Releases/releases/download/v1.0.2/AutomacaoUniderp.exe",
+     "notas": "Licença por máquina, opção de substituir conteúdo e mais estabilidade em lançamentos grandes."
+   }
